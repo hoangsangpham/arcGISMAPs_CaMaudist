@@ -1,5 +1,7 @@
 "Ca Mau dist"
 
+Request:
+
 Draw an administrative map of 1 province/city/optional region with at least 8 regions on the map of the southern region.
 
 Represent different districts in the province by regions and mark cities, towns, and schools with symbols that click on to show detailed information about the object.
